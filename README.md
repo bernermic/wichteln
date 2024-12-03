@@ -6,11 +6,11 @@ Command `./development.sh` builds and runs simple php Docker container
 
 ## Use
 * maintain list of persons to choose from in form of `key=value` pairs in [`data.txt`](data.txt) where key is then the query parameter for the draw
-* run [`development.sh`](development.sh)
+* run [`./development.sh`](development.sh)
 * open page (localhost)[http://localhost:8080/?key=key-wichtel]
 * random person is drawn and then stored for reference in [`draw.txt`](draw.txt) in form of `key-wichtel=key-random-person`
 * page shows the randomly chosen person on the first call of a the given link 
-* on second call the chosen person is loaded from `draw.txt`
+* on second call for the link the chosen person is loaded from `draw.txt`
 
 ## ChatGPT prompt
 Here's a detailed prompt to generate the updated version of the HTML code:
@@ -62,3 +62,11 @@ Create an HTML page titled **"Weihnachtswichteln"** that has the following featu
 ---
 
 This prompt will create a responsive HTML page with a loading animation, PHP-based key-value lookup functionality, and visually appealing styles. The page is optimized for both desktop and mobile devices.
+
+
+
+## Credits
+**Both images are created and provided by:**
+Dieses Bild findest du hier: (Pixabay | Lizenzdetails)[https://pixabay.com/service/license-summary/]
+Ersteller: Winterflower | Credit: Image by Winterflower
+Urheberrecht: Winterflower
