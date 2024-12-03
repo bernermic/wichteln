@@ -1,0 +1,7 @@
+key-wichtel=Person A
+eu=Erika und Ulli
+sm=Senta, Markus, Jakob, Eli und Pauli
+hm=Heike, Michael, Kili, Henni
+ka=Karin und Axel
+sa=Steffi und Andi
+ma=Mama/Oma
